@@ -6,3 +6,6 @@ VulnGuard es una herramienta de análisis de seguridad que detecta vulnerabilida
 - Generación automática de recomendaciones
 - Integración con pipelines de CI/CD
 
+## Cómo usar
+```bash
+git clone https://github.com/jos710k/Proyecto_riego_automatizado.git
